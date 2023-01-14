@@ -1,6 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/users/1026227/screenshots/2417386/media/c7c76237fe6909ab2a83f62ccccece8a.gif)
 <h1 align="center">Hi 👋, I'm Bibek Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/thebibekdas" target="blank"><img src="https://img.shields.io/twitter/follow/thebibekdas?logo=twitter&style=for-the-badge" alt="thebibekdas" /></a> </p>
 
