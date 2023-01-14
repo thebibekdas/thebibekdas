@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/originals/6a/fb/ef/6afbefed14d0a345e5b8202008e41da1.gif](https://cdn.dribbble.com/users/985415/screenshots/14157256/media/d25809b7a0537d5190facae25173960c.mp4))
+[![MasterHead](https://cdn.dribbble.com/users/985415/screenshots/14157256/media/d25809b7a0537d5190facae25173960c.mp4)
 <h1 align="center">Hi 👋, I'm Bibek Das</h1>
 <h3 align="center">I'm a Independent security researcher love’s to find security loopholes and patch them by reporting.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
