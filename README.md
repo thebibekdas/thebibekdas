@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **thebibekdas@gmai.com**
+- 📫 How to reach me **thebibekdas@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
